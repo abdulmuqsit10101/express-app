@@ -1,0 +1,6 @@
+{
+    "name": "My App - Default",
+    "mail": {
+        "host": "default-mail-server"
+    }
+}
